@@ -65,10 +65,7 @@ Retail Sales CSV Files
             ▼
        Gold Layer
  (Analytics Ready Data)
-            │
-            ▼
-      Power BI Dashboard
-```
+       
 
 ---
 
