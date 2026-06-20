@@ -1,0 +1,506 @@
+OrderID,CustomerID,CustomerName,ProductID,ProductName,Category,Quantity,UnitPrice,OrderDate,City
+ORDC0001,CUST5012,Customer_71,P002,Mobile,Electronics,1,25000,2026-02-27,Chennai
+ORDC0002,CUST9935,Customer_174,P003,Headphones,Electronics,2,2000,2026-01-23,Chennai
+ORDC0003,CUST1488,Customer_9,P010,Football,Sports,7,900,2026-01-24,Chennai
+ORDC0004,CUST1434,Customer_130,P004,T-Shirt,Clothing,4,800,2026-05-24,Chennai
+ORDC0005,CUST4611,Customer_108,P004,T-Shirt,Clothing,9,800,2026-04-25,Chennai
+ORDC0006,CUST3615,Customer_2,P010,Football,Sports,5,900,2026-06-28,Chennai
+ORDC0007,CUST3547,Customer_72,P007,Microwave,Home Appliances,6,12000,2026-02-25,Chennai
+ORDC0008,CUST7224,Customer_24,P006,Mixer,Home Appliances,2,3500,2026-01-25,Chennai
+ORDC0009,CUST5333,Customer_155,P006,Mixer,Home Appliances,6,3500,2026-01-12,Chennai
+ORDC0010,CUST7201,Customer_32,P008,Novel,Books,9,500,2026-01-21,Chennai
+ORDC0011,CUST6925,Customer_161,P009,Cricket Bat,Sports,5,1800,2026-05-28,Chennai
+ORDC0012,CUST4733,Customer_12,P004,T-Shirt,Clothing,2,800,2026-03-16,Chennai
+ORDC0013,CUST7227,Customer_26,P002,Mobile,Electronics,4,25000,2026-03-13,Chennai
+ORDC0014,CUST7065,Customer_42,P008,Novel,Books,6,500,2026-04-01,Chennai
+ORDC0015,CUST2169,Customer_180,P004,T-Shirt,Clothing,5,800,2026-06-05,Chennai
+ORDC0016,CUST3677,Customer_63,P003,Headphones,Electronics,9,2000,2026-04-29,Chennai
+ORDC0017,CUST4598,Customer_164,P007,Microwave,Home Appliances,5,12000,2026-06-25,Chennai
+ORDC0018,CUST1525,Customer_59,P006,Mixer,Home Appliances,1,3500,2026-03-22,Chennai
+ORDC0019,CUST4456,Customer_17,P007,Microwave,Home Appliances,5,12000,2026-05-26,Chennai
+ORDC0020,CUST9179,Customer_168,P006,Mixer,Home Appliances,4,3500,2026-04-12,Chennai
+ORDC0021,CUST3287,Customer_68,P008,Novel,Books,3,500,2026-03-05,Chennai
+ORDC0022,CUST8019,Customer_68,P009,Cricket Bat,Sports,9,1800,2026-05-30,Chennai
+ORDC0023,CUST3266,Customer_57,P007,Microwave,Home Appliances,6,12000,2026-05-11,Chennai
+ORDC0024,CUST2796,Customer_13,P008,Novel,Books,2,500,2026-02-09,Chennai
+ORDC0025,CUST2040,Customer_153,P003,Headphones,Electronics,7,2000,2026-04-09,Chennai
+ORDC0026,CUST9669,Customer_120,P007,Microwave,Home Appliances,10,12000,2026-03-06,Chennai
+ORDC0027,CUST2876,Customer_175,P009,Cricket Bat,Sports,1,1800,2026-06-24,Chennai
+ORDC0028,CUST6573,Customer_165,P009,Cricket Bat,Sports,5,1800,2026-01-29,Chennai
+ORDC0029,CUST8433,Customer_41,P005,Shoes,Clothing,7,2500,2026-01-01,Chennai
+ORDC0030,CUST9317,Customer_46,P005,Shoes,Clothing,9,2500,2026-01-28,Chennai
+ORDC0031,CUST4258,Customer_156,P005,Shoes,Clothing,9,2500,2026-02-09,Chennai
+ORDC0032,CUST9689,Customer_139,P006,Mixer,Home Appliances,3,3500,2026-01-01,Chennai
+ORDC0033,CUST1319,Customer_126,P010,Football,Sports,6,900,2026-01-29,Chennai
+ORDC0034,CUST1949,Customer_62,P006,Mixer,Home Appliances,5,3500,2026-03-03,Chennai
+ORDC0035,CUST8962,Customer_22,P010,Football,Sports,2,900,2026-01-18,Chennai
+ORDC0036,CUST8787,Customer_33,P009,Cricket Bat,Sports,3,1800,2026-05-21,Chennai
+ORDC0037,CUST7932,Customer_136,P003,Headphones,Electronics,5,2000,2026-02-24,Chennai
+ORDC0038,CUST7537,Customer_80,P009,Cricket Bat,Sports,4,1800,2026-06-21,Chennai
+ORDC0039,CUST8397,Customer_133,P006,Mixer,Home Appliances,8,3500,2026-01-31,Chennai
+ORDC0040,CUST6539,Customer_17,P004,T-Shirt,Clothing,4,800,2026-01-06,Chennai
+ORDC0041,CUST4608,Customer_59,P010,Football,Sports,9,900,2026-01-02,Chennai
+ORDC0042,CUST2104,Customer_59,P002,Mobile,Electronics,1,25000,2026-01-09,Chennai
+ORDC0043,CUST4899,Customer_132,P006,Mixer,Home Appliances,2,3500,2026-03-13,Chennai
+ORDC0044,CUST3167,Customer_139,P008,Novel,Books,4,500,2026-05-27,Chennai
+ORDC0045,CUST8749,Customer_63,P010,Football,Sports,8,900,2026-04-15,Chennai
+ORDC0046,CUST8062,Customer_25,P004,T-Shirt,Clothing,2,800,2026-04-01,Chennai
+ORDC0047,CUST1887,Customer_120,P007,Microwave,Home Appliances,7,12000,2026-06-22,Chennai
+ORDC0048,CUST6559,Customer_104,P002,Mobile,Electronics,1,25000,2026-01-28,Chennai
+ORDC0049,CUST9786,Customer_49,P004,T-Shirt,Clothing,4,800,2026-04-25,Chennai
+ORDC0050,CUST5563,Customer_47,P003,Headphones,Electronics,7,2000,2026-04-29,Chennai
+ORDC0051,CUST2604,Customer_114,P004,T-Shirt,Clothing,2,800,2026-01-13,Chennai
+ORDC0052,CUST4872,Customer_24,P009,Cricket Bat,Sports,1,1800,2026-02-12,Chennai
+ORDC0053,CUST4502,Customer_124,P007,Microwave,Home Appliances,8,12000,2026-04-13,Chennai
+ORDC0054,CUST1035,Customer_98,P001,Laptop,Electronics,3,55000,2026-04-10,Chennai
+ORDC0055,CUST7930,Customer_74,P005,Shoes,Clothing,8,2500,2026-06-28,Chennai
+ORDC0056,CUST4111,Customer_40,P009,Cricket Bat,Sports,8,1800,2026-03-17,Chennai
+ORDC0057,CUST9883,Customer_149,P004,T-Shirt,Clothing,1,800,2026-01-16,Chennai
+ORDC0058,CUST8811,Customer_13,P006,Mixer,Home Appliances,1,3500,2026-05-09,Chennai
+ORDC0059,CUST9320,Customer_15,P009,Cricket Bat,Sports,3,1800,2026-01-21,Chennai
+ORDC0060,CUST2113,Customer_153,P003,Headphones,Electronics,2,2000,2026-06-22,Chennai
+ORDC0061,CUST5033,Customer_31,P004,T-Shirt,Clothing,7,800,2026-05-29,Chennai
+ORDC0062,CUST2343,Customer_159,P010,Football,Sports,1,900,2026-04-18,Chennai
+ORDC0063,CUST6183,Customer_134,P010,Football,Sports,10,900,2026-03-08,Chennai
+ORDC0064,CUST5351,Customer_62,P004,T-Shirt,Clothing,6,800,2026-04-12,Chennai
+ORDC0065,CUST6180,Customer_118,P003,Headphones,Electronics,5,2000,2026-01-19,Chennai
+ORDC0066,CUST2638,Customer_160,P001,Laptop,Electronics,8,55000,2026-01-19,Chennai
+ORDC0067,CUST5345,Customer_130,P009,Cricket Bat,Sports,4,1800,2026-02-03,Chennai
+ORDC0068,CUST7054,Customer_63,P006,Mixer,Home Appliances,2,3500,2026-03-14,Chennai
+ORDC0069,CUST5956,Customer_140,P003,Headphones,Electronics,8,2000,2026-06-06,Chennai
+ORDC0070,CUST5905,,P009,Cricket Bat,Sports,1,1800,2026-06-19,Chennai
+ORDC0071,CUST2891,Customer_68,P002,Mobile,Electronics,3,25000,2026-01-28,Chennai
+ORDC0072,CUST5616,Customer_70,P009,Cricket Bat,Sports,3,1800,2026-06-04,Chennai
+ORDC0073,CUST5325,Customer_53,P004,T-Shirt,Clothing,6,800,2026-05-10,Chennai
+ORDC0074,CUST2512,Customer_14,P008,Novel,Books,5,500,2026-06-12,Chennai
+ORDC0075,CUST1058,Customer_12,P007,Microwave,Home Appliances,5,12000,2026-03-27,Chennai
+ORDC0076,CUST8239,Customer_42,P003,Headphones,Electronics,5,2000,2026-05-22,Chennai
+ORDC0077,CUST2832,Customer_3,P007,Microwave,Home Appliances,9,12000,2026-01-20,Chennai
+ORDC0078,CUST7049,Customer_10,P003,Headphones,Electronics,9,2000,2026-05-30,Chennai
+ORDC0079,CUST3088,Customer_111,P009,Cricket Bat,Sports,3,1800,2026-01-11,Chennai
+ORDC0080,CUST6862,Customer_11,P005,Shoes,Clothing,6,2500,2026-02-23,Chennai
+ORDC0081,CUST7658,Customer_91,P004,T-Shirt,Clothing,2,800,2026-06-08,Chennai
+ORDC0082,CUST3900,Customer_42,P003,Headphones,Electronics,4,2000,2026-04-16,Chennai
+ORDC0083,CUST7745,Customer_86,P001,Laptop,Electronics,3,55000,2026-06-21,Chennai
+ORDC0084,CUST2771,Customer_41,P004,T-Shirt,Clothing,5,800,2026-04-08,Chennai
+ORDC0085,CUST4269,Customer_57,P001,Laptop,Electronics,8,55000,2026-04-28,Chennai
+ORDC0086,CUST4652,Customer_59,P006,Mixer,Home Appliances,5,3500,2026-01-07,Chennai
+ORDC0087,CUST5564,Customer_85,P004,T-Shirt,Clothing,7,800,2026-01-18,Chennai
+ORDC0088,CUST9346,Customer_165,P005,Shoes,Clothing,6,2500,2026-04-13,Chennai
+ORDC0089,CUST2889,Customer_8,P009,Cricket Bat,Sports,6,1800,2026-03-08,Chennai
+ORDC0090,CUST1626,Customer_68,P003,Headphones,Electronics,10,2000,2026-01-28,Chennai
+ORDC0091,CUST6139,Customer_89,P010,Football,Sports,7,900,2026-04-22,Chennai
+ORDC0092,CUST7311,Customer_30,P010,Football,Sports,9,900,2026-05-28,Chennai
+ORDC0093,CUST8144,Customer_12,P004,T-Shirt,Clothing,5,800,2026-01-01,Chennai
+ORDC0094,CUST4228,Customer_176,P009,Cricket Bat,Sports,9,1800,2026-04-04,Chennai
+ORDC0095,CUST6409,Customer_171,P007,Microwave,Home Appliances,2,12000,2026-06-09,Chennai
+ORDC0096,CUST9308,Customer_77,P006,Mixer,Home Appliances,2,3500,2026-03-21,Chennai
+ORDC0097,CUST5844,Customer_104,P007,Microwave,Home Appliances,6,12000,2026-05-22,Chennai
+ORDC0098,CUST7211,Customer_108,P003,Headphones,Electronics,4,2000,2026-06-23,Chennai
+ORDC0099,CUST5930,Customer_146,P003,Headphones,Electronics,10,2000,2026-04-14,Chennai
+ORDC0100,CUST5700,Customer_78,P009,Cricket Bat,Sports,1,1800,2026-02-23,Chennai
+ORDC0101,CUST6279,Customer_156,P007,Microwave,Home Appliances,10,12000,2026-04-30,Chennai
+ORDC0102,CUST4501,Customer_173,P008,Novel,Books,8,500,2026-05-11,Chennai
+ORDC0103,CUST2389,Customer_169,P008,Novel,Books,3,500,2026-03-14,Chennai
+ORDC0104,CUST2530,Customer_86,P009,Cricket Bat,Sports,10,1800,2026-03-02,Chennai
+ORDC0105,CUST3414,Customer_51,P005,Shoes,Clothing,4,2500,2026-01-07,Chennai
+ORDC0106,CUST2193,Customer_122,P001,Laptop,Electronics,4,55000,2026-04-27,Chennai
+ORDC0107,CUST7291,Customer_50,P007,Microwave,Home Appliances,10,12000,2026-05-07,Chennai
+ORDC0108,CUST1090,Customer_38,P007,Microwave,Home Appliances,4,12000,2026-01-28,Chennai
+ORDC0109,CUST9486,Customer_46,P007,Microwave,Home Appliances,4,12000,2026-04-29,Chennai
+ORDC0110,CUST2988,Customer_64,P001,Laptop,Electronics,9,55000,2026-04-27,Chennai
+ORDC0111,CUST9702,Customer_171,P003,Headphones,Electronics,8,2000,2026-05-24,Chennai
+ORDC0112,CUST9270,Customer_114,P010,Football,Sports,6,900,2026-04-20,Chennai
+ORDC0113,CUST8777,Customer_41,P009,Cricket Bat,Sports,8,1800,2026-04-26,Chennai
+ORDC0114,CUST5543,Customer_164,P005,Shoes,Clothing,4,2500,2026-05-14,Chennai
+ORDC0115,CUST8206,Customer_71,P008,Novel,Books,4,500,2026-01-20,Chennai
+ORDC0116,CUST6502,Customer_70,P005,Shoes,Clothing,4,2500,2026-03-23,Chennai
+ORDC0117,CUST3471,Customer_36,P009,Cricket Bat,Sports,2,1800,2026-03-01,Chennai
+ORDC0118,CUST2052,Customer_55,P007,Microwave,Home Appliances,3,12000,2026-04-17,Chennai
+ORDC0119,CUST8633,Customer_139,P007,Microwave,Home Appliances,6,12000,2026-04-17,Chennai
+ORDC0120,CUST7381,Customer_108,P001,Laptop,Electronics,4,55000,2026-05-30,Chennai
+ORDC0121,CUST8814,Customer_98,P001,Laptop,Electronics,10,55000,2026-01-02,Chennai
+ORDC0122,CUST7865,Customer_100,P006,Mixer,Home Appliances,5,3500,2026-05-18,Chennai
+ORDC0123,CUST8999,Customer_57,P009,Cricket Bat,Sports,10,1800,2026-02-26,Chennai
+ORDC0124,CUST1475,Customer_125,P005,Shoes,Clothing,7,2500,2026-04-10,Chennai
+ORDC0125,CUST8657,Customer_43,P006,Mixer,Home Appliances,7,3500,2026-02-02,Chennai
+ORDC0126,CUST7455,Customer_7,P010,Football,Sports,9,900,2026-06-01,Chennai
+ORDC0127,CUST8022,Customer_22,P010,Football,Sports,1,900,2026-02-04,Chennai
+ORDC0128,CUST5262,Customer_13,P008,Novel,Books,3,500,2026-04-08,Chennai
+ORDC0129,CUST6355,Customer_117,P006,Mixer,Home Appliances,4,3500,2026-03-28,Chennai
+ORDC0130,CUST5133,Customer_108,P007,Microwave,Home Appliances,5,12000,2026-01-21,Chennai
+ORDC0131,CUST1853,Customer_139,P008,Novel,Books,1,500,2026-03-31,Chennai
+ORDC0132,CUST1659,Customer_167,P004,T-Shirt,Clothing,2,800,2026-01-08,Chennai
+ORDC0133,CUST3496,Customer_6,P004,T-Shirt,Clothing,4,800,2026-03-03,Chennai
+ORDC0134,CUST2874,Customer_172,P003,Headphones,Electronics,8,2000,2026-05-25,Chennai
+ORDC0135,CUST5198,Customer_180,P004,T-Shirt,Clothing,8,800,2026-04-05,Chennai
+ORDC0136,CUST2876,Customer_156,P003,Headphones,Electronics,10,2000,2026-02-11,Chennai
+ORDC0137,CUST1420,Customer_149,P005,Shoes,Clothing,2,2500,2026-03-21,Chennai
+ORDC0138,CUST4249,Customer_102,P010,Football,Sports,7,900,2026-01-20,Chennai
+ORDC0139,CUST5941,Customer_27,P010,Football,Sports,4,900,2026-06-25,Chennai
+ORDC0140,CUST1672,,P010,Football,Sports,2,900,2026-03-30,Chennai
+ORDC0141,CUST7071,Customer_170,P009,Cricket Bat,Sports,7,1800,2026-01-18,Chennai
+ORDC0142,CUST7882,Customer_4,P009,Cricket Bat,Sports,6,1800,2026-05-06,Chennai
+ORDC0143,CUST8532,Customer_93,P002,Mobile,Electronics,7,25000,2026-02-09,Chennai
+ORDC0144,CUST5425,Customer_134,P007,Microwave,Home Appliances,3,12000,2026-06-07,Chennai
+ORDC0145,CUST8136,Customer_120,P009,Cricket Bat,Sports,8,1800,2026-06-01,Chennai
+ORDC0146,CUST2419,Customer_63,P005,Shoes,Clothing,6,2500,2026-03-13,Chennai
+ORDC0147,CUST7209,Customer_119,P008,Novel,Books,4,500,2026-03-28,Chennai
+ORDC0148,CUST3979,Customer_84,P001,Laptop,Electronics,8,55000,2026-05-05,Chennai
+ORDC0149,CUST6576,Customer_67,P004,T-Shirt,Clothing,6,800,2026-03-13,Chennai
+ORDC0150,CUST1166,Customer_143,P010,Football,Sports,5,900,2026-05-13,Chennai
+ORDC0151,CUST7658,Customer_62,P004,T-Shirt,Clothing,2,800,2026-05-06,Chennai
+ORDC0152,CUST8800,Customer_177,P009,Cricket Bat,Sports,4,1800,2026-06-15,Chennai
+ORDC0153,CUST2524,Customer_5,P008,Novel,Books,8,500,2026-03-17,Chennai
+ORDC0154,CUST4986,Customer_178,P004,T-Shirt,Clothing,7,800,2026-03-20,Chennai
+ORDC0155,CUST9698,Customer_122,P010,Football,Sports,6,900,2026-03-30,Chennai
+ORDC0156,CUST6764,Customer_85,P007,Microwave,Home Appliances,9,12000,2026-06-29,Chennai
+ORDC0157,CUST5118,Customer_79,P008,Novel,Books,5,500,2026-03-01,Chennai
+ORDC0158,CUST2958,Customer_81,P002,Mobile,Electronics,4,25000,2026-05-18,Chennai
+ORDC0159,CUST8933,Customer_56,P003,Headphones,Electronics,4,2000,2026-03-12,Chennai
+ORDC0160,CUST5636,Customer_153,P010,Football,Sports,9,900,2026-01-26,Chennai
+ORDC0161,CUST6912,Customer_59,P004,T-Shirt,Clothing,5,800,2026-02-15,Chennai
+ORDC0162,CUST3073,Customer_137,P005,Shoes,Clothing,1,2500,2026-03-12,Chennai
+ORDC0163,CUST5786,Customer_142,P001,Laptop,Electronics,1,55000,2026-06-28,Chennai
+ORDC0164,CUST1200,Customer_27,P003,Headphones,Electronics,8,2000,2026-05-27,Chennai
+ORDC0165,CUST8216,Customer_123,P005,Shoes,Clothing,8,2500,2026-03-29,Chennai
+ORDC0166,CUST8827,Customer_65,P003,Headphones,Electronics,1,2000,2026-01-30,Chennai
+ORDC0167,CUST2213,Customer_126,P002,Mobile,Electronics,7,25000,2026-05-28,Chennai
+ORDC0168,CUST5978,Customer_39,P001,Laptop,Electronics,3,55000,2026-01-22,Chennai
+ORDC0169,CUST7818,Customer_143,P004,T-Shirt,Clothing,2,800,2026-06-05,Chennai
+ORDC0170,CUST9561,Customer_58,P010,Football,Sports,10,900,2026-04-08,Chennai
+ORDC0171,CUST8025,Customer_77,P008,Novel,Books,8,500,2026-03-20,Chennai
+ORDC0172,CUST2625,Customer_16,P010,Football,Sports,10,900,2026-02-23,Chennai
+ORDC0173,CUST2330,Customer_170,P004,T-Shirt,Clothing,5,800,2026-02-10,Chennai
+ORDC0174,CUST2229,Customer_142,P004,T-Shirt,Clothing,3,800,2026-02-10,Chennai
+ORDC0175,CUST8699,Customer_116,P001,Laptop,Electronics,7,55000,2026-03-16,Chennai
+ORDC0176,CUST5632,Customer_74,P001,Laptop,Electronics,4,55000,2026-06-29,Chennai
+ORDC0177,CUST4824,Customer_176,P008,Novel,Books,2,500,2026-03-09,Chennai
+ORDC0178,CUST2880,Customer_109,P010,Football,Sports,4,900,2026-05-20,Chennai
+ORDC0179,CUST3330,Customer_69,P004,T-Shirt,Clothing,3,800,2026-01-19,Chennai
+ORDC0180,CUST5728,Customer_79,P001,Laptop,Electronics,3,55000,2026-04-23,Chennai
+ORDC0181,CUST5982,Customer_177,P002,Mobile,Electronics,8,25000,2026-06-29,Chennai
+ORDC0182,CUST9847,Customer_129,P007,Microwave,Home Appliances,5,12000,2026-05-07,Chennai
+ORDC0183,CUST1653,Customer_154,P008,Novel,Books,2,500,2026-04-21,Chennai
+ORDC0184,CUST1423,Customer_65,P006,Mixer,Home Appliances,10,3500,2026-01-24,Chennai
+ORDC0185,CUST1339,Customer_151,P004,T-Shirt,Clothing,10,800,2026-06-22,Chennai
+ORDC0186,CUST3870,Customer_11,P005,Shoes,Clothing,10,2500,2026-05-01,Chennai
+ORDC0187,CUST3973,Customer_72,P009,Cricket Bat,Sports,8,1800,2026-05-30,Chennai
+ORDC0188,CUST8700,Customer_24,P007,Microwave,Home Appliances,8,12000,2026-03-31,Chennai
+ORDC0189,CUST2713,Customer_83,P007,Microwave,Home Appliances,6,12000,2026-02-11,Chennai
+ORDC0190,CUST9117,Customer_178,P006,Mixer,Home Appliances,7,3500,2026-03-15,Chennai
+ORDC0191,CUST8451,Customer_10,P007,Microwave,Home Appliances,9,12000,2026-01-23,Chennai
+ORDC0192,CUST2899,Customer_83,P006,Mixer,Home Appliances,5,3500,2026-04-14,Chennai
+ORDC0193,CUST9889,Customer_169,P009,Cricket Bat,Sports,1,1800,2026-04-29,Chennai
+ORDC0194,CUST9494,Customer_49,P007,Microwave,Home Appliances,1,12000,2026-04-03,Chennai
+ORDC0195,CUST8242,Customer_161,P010,Football,Sports,8,900,2026-01-14,Chennai
+ORDC0196,CUST3146,Customer_141,P004,T-Shirt,Clothing,5,800,2026-03-15,Chennai
+ORDC0197,CUST1472,Customer_32,P008,Novel,Books,8,500,2026-06-11,Chennai
+ORDC0198,CUST6091,Customer_41,P010,Football,Sports,4,900,2026-05-22,Chennai
+ORDC0199,CUST2527,Customer_105,P001,Laptop,Electronics,9,55000,2026-02-27,Chennai
+ORDC0200,CUST3522,Customer_31,P002,Mobile,Electronics,8,25000,2026-05-08,Chennai
+ORDC0201,CUST7807,Customer_70,P005,Shoes,Clothing,9,2500,2026-05-04,Chennai
+ORDC0202,CUST3369,Customer_117,P008,Novel,Books,4,500,2026-04-09,Chennai
+ORDC0203,CUST3236,Customer_131,P004,T-Shirt,Clothing,10,800,2026-01-18,Chennai
+ORDC0204,CUST9318,Customer_88,P005,Shoes,Clothing,7,2500,2026-03-10,Chennai
+ORDC0205,CUST9022,Customer_77,P001,Laptop,Electronics,5,55000,2026-02-08,Chennai
+ORDC0206,CUST6654,Customer_124,P008,Novel,Books,9,500,2026-03-27,Chennai
+ORDC0207,CUST8460,Customer_97,P009,Cricket Bat,Sports,9,1800,2026-03-24,Chennai
+ORDC0208,CUST7274,Customer_147,P004,T-Shirt,Clothing,4,800,2026-03-01,Chennai
+ORDC0209,CUST8749,Customer_82,P007,Microwave,Home Appliances,1,12000,2026-06-30,Chennai
+ORDC0210,CUST3492,,P007,Microwave,Home Appliances,7,12000,2026-05-07,Chennai
+ORDC0211,CUST6439,Customer_129,P001,Laptop,Electronics,3,55000,2026-01-26,Chennai
+ORDC0212,CUST8486,Customer_135,P008,Novel,Books,2,500,2026-01-04,Chennai
+ORDC0213,CUST3529,Customer_168,P003,Headphones,Electronics,7,2000,2026-01-20,Chennai
+ORDC0214,CUST7512,Customer_87,P008,Novel,Books,5,500,2026-06-16,Chennai
+ORDC0215,CUST9742,Customer_173,P002,Mobile,Electronics,6,25000,2026-04-08,Chennai
+ORDC0216,CUST1588,Customer_139,P006,Mixer,Home Appliances,8,3500,2026-06-08,Chennai
+ORDC0217,CUST5708,Customer_162,P002,Mobile,Electronics,4,25000,2026-02-28,Chennai
+ORDC0218,CUST2646,Customer_26,P002,Mobile,Electronics,7,25000,2026-04-24,Chennai
+ORDC0219,CUST1753,Customer_8,P003,Headphones,Electronics,5,2000,2026-03-25,Chennai
+ORDC0220,CUST7141,Customer_92,P001,Laptop,Electronics,5,55000,2026-04-21,Chennai
+ORDC0221,CUST7751,Customer_136,P003,Headphones,Electronics,4,2000,2026-05-25,Chennai
+ORDC0222,CUST2293,Customer_45,P003,Headphones,Electronics,3,2000,2026-06-06,Chennai
+ORDC0223,CUST4945,Customer_175,P007,Microwave,Home Appliances,10,12000,2026-05-08,Chennai
+ORDC0224,CUST8555,Customer_60,P010,Football,Sports,3,900,2026-06-13,Chennai
+ORDC0225,CUST1153,Customer_66,P005,Shoes,Clothing,8,2500,2026-04-30,Chennai
+ORDC0226,CUST2210,Customer_41,P005,Shoes,Clothing,9,2500,2026-04-24,Chennai
+ORDC0227,CUST7951,Customer_77,P006,Mixer,Home Appliances,10,3500,2026-06-26,Chennai
+ORDC0228,CUST4263,Customer_78,P005,Shoes,Clothing,8,2500,2026-04-09,Chennai
+ORDC0229,CUST7248,Customer_61,P008,Novel,Books,2,500,2026-05-27,Chennai
+ORDC0230,CUST5837,Customer_76,P006,Mixer,Home Appliances,10,3500,2026-01-06,Chennai
+ORDC0231,CUST1803,Customer_3,P007,Microwave,Home Appliances,5,12000,2026-06-05,Chennai
+ORDC0232,CUST6772,Customer_59,P008,Novel,Books,5,500,2026-02-26,Chennai
+ORDC0233,CUST3240,Customer_65,P004,T-Shirt,Clothing,10,800,2026-06-10,Chennai
+ORDC0234,CUST8222,Customer_80,P002,Mobile,Electronics,1,25000,2026-01-09,Chennai
+ORDC0235,CUST2476,Customer_34,P010,Football,Sports,6,900,2026-03-17,Chennai
+ORDC0236,CUST4289,Customer_45,P006,Mixer,Home Appliances,7,3500,2026-02-03,Chennai
+ORDC0237,CUST9221,Customer_136,P009,Cricket Bat,Sports,6,1800,2026-03-11,Chennai
+ORDC0238,CUST5835,Customer_124,P003,Headphones,Electronics,5,2000,2026-03-28,Chennai
+ORDC0239,CUST3306,Customer_20,P002,Mobile,Electronics,8,25000,2026-02-27,Chennai
+ORDC0240,CUST2479,Customer_94,P007,Microwave,Home Appliances,9,12000,2026-04-12,Chennai
+ORDC0241,CUST3024,Customer_138,P001,Laptop,Electronics,5,55000,2026-04-27,Chennai
+ORDC0242,CUST7242,Customer_150,P006,Mixer,Home Appliances,5,3500,2026-06-13,Chennai
+ORDC0243,CUST4830,Customer_173,P006,Mixer,Home Appliances,2,3500,2026-05-01,Chennai
+ORDC0244,CUST6374,Customer_144,P001,Laptop,Electronics,10,55000,2026-06-06,Chennai
+ORDC0245,CUST8606,Customer_163,P004,T-Shirt,Clothing,2,800,2026-06-29,Chennai
+ORDC0246,CUST3290,Customer_30,P005,Shoes,Clothing,7,2500,2026-01-12,Chennai
+ORDC0247,CUST2902,Customer_127,P001,Laptop,Electronics,5,55000,2026-01-25,Chennai
+ORDC0248,CUST7367,Customer_35,P004,T-Shirt,Clothing,9,800,2026-04-27,Chennai
+ORDC0249,CUST3531,Customer_108,P006,Mixer,Home Appliances,9,3500,2026-04-17,Chennai
+ORDC0250,CUST7686,Customer_158,P002,Mobile,Electronics,8,25000,2026-03-13,Chennai
+ORDC0251,CUST8264,Customer_56,P001,Laptop,Electronics,6,55000,2026-04-24,Chennai
+ORDC0252,CUST7018,Customer_26,P004,T-Shirt,Clothing,6,800,2026-05-20,Chennai
+ORDC0253,CUST5520,Customer_102,P006,Mixer,Home Appliances,1,3500,2026-02-18,Chennai
+ORDC0254,CUST4475,Customer_24,P002,Mobile,Electronics,8,25000,2026-06-14,Chennai
+ORDC0255,CUST6464,Customer_13,P010,Football,Sports,1,900,2026-03-04,Chennai
+ORDC0256,CUST2124,Customer_53,P003,Headphones,Electronics,10,2000,2026-05-22,Chennai
+ORDC0257,CUST4817,Customer_56,P004,T-Shirt,Clothing,10,800,2026-03-26,Chennai
+ORDC0258,CUST5542,Customer_1,P003,Headphones,Electronics,10,2000,2026-02-07,Chennai
+ORDC0259,CUST3858,Customer_65,P003,Headphones,Electronics,9,2000,2026-01-29,Chennai
+ORDC0260,CUST6869,Customer_4,P001,Laptop,Electronics,3,55000,2026-03-02,Chennai
+ORDC0261,CUST3854,Customer_5,P010,Football,Sports,6,900,2026-03-09,Chennai
+ORDC0262,CUST9619,Customer_108,P001,Laptop,Electronics,3,55000,2026-01-30,Chennai
+ORDC0263,CUST6931,Customer_115,P002,Mobile,Electronics,8,25000,2026-05-12,Chennai
+ORDC0264,CUST9254,Customer_116,P010,Football,Sports,2,900,2026-02-26,Chennai
+ORDC0265,CUST9543,Customer_169,P010,Football,Sports,1,900,2026-03-19,Chennai
+ORDC0266,CUST8847,Customer_16,P008,Novel,Books,1,500,2026-04-13,Chennai
+ORDC0267,CUST8267,Customer_126,P007,Microwave,Home Appliances,2,12000,2026-01-19,Chennai
+ORDC0268,CUST3430,Customer_156,P002,Mobile,Electronics,6,25000,2026-01-17,Chennai
+ORDC0269,CUST9984,Customer_160,P003,Headphones,Electronics,5,2000,2026-03-25,Chennai
+ORDC0270,CUST5831,Customer_136,P007,Microwave,Home Appliances,10,12000,2026-04-27,Chennai
+ORDC0271,CUST2624,Customer_111,P009,Cricket Bat,Sports,10,1800,2026-06-29,Chennai
+ORDC0272,CUST8046,Customer_56,P002,Mobile,Electronics,9,25000,2026-04-26,Chennai
+ORDC0273,CUST8430,Customer_87,P004,T-Shirt,Clothing,7,800,2026-04-13,Chennai
+ORDC0274,CUST7992,Customer_81,P007,Microwave,Home Appliances,2,12000,2026-03-22,Chennai
+ORDC0275,CUST8770,Customer_40,P005,Shoes,Clothing,6,2500,2026-01-18,Chennai
+ORDC0276,CUST8075,Customer_24,P002,Mobile,Electronics,2,25000,2026-01-25,Chennai
+ORDC0277,CUST1982,Customer_143,P006,Mixer,Home Appliances,3,3500,2026-05-31,Chennai
+ORDC0278,CUST3002,Customer_85,P009,Cricket Bat,Sports,9,1800,2026-04-16,Chennai
+ORDC0279,CUST5712,Customer_14,P006,Mixer,Home Appliances,7,3500,2026-06-03,Chennai
+ORDC0280,CUST9313,,P005,Shoes,Clothing,6,2500,2026-02-24,Chennai
+ORDC0281,CUST2773,Customer_58,P003,Headphones,Electronics,8,2000,2026-03-31,Chennai
+ORDC0282,CUST5564,Customer_30,P009,Cricket Bat,Sports,6,1800,2026-05-27,Chennai
+ORDC0283,CUST1430,Customer_144,P004,T-Shirt,Clothing,7,800,2026-06-05,Chennai
+ORDC0284,CUST5477,Customer_47,P005,Shoes,Clothing,1,2500,2026-06-29,Chennai
+ORDC0285,CUST1100,Customer_90,P005,Shoes,Clothing,6,2500,2026-02-16,Chennai
+ORDC0286,CUST7566,Customer_169,P003,Headphones,Electronics,10,2000,2026-01-18,Chennai
+ORDC0287,CUST9691,Customer_24,P003,Headphones,Electronics,1,2000,2026-02-25,Chennai
+ORDC0288,CUST6585,Customer_117,P007,Microwave,Home Appliances,7,12000,2026-02-10,Chennai
+ORDC0289,CUST2391,Customer_84,P006,Mixer,Home Appliances,5,3500,2026-01-14,Chennai
+ORDC0290,CUST1815,Customer_159,P003,Headphones,Electronics,3,2000,2026-06-22,Chennai
+ORDC0291,CUST7947,Customer_114,P002,Mobile,Electronics,5,25000,2026-05-05,Chennai
+ORDC0292,CUST5475,Customer_107,P010,Football,Sports,8,900,2026-02-25,Chennai
+ORDC0293,CUST8043,Customer_89,P009,Cricket Bat,Sports,2,1800,2026-01-29,Chennai
+ORDC0294,CUST9633,Customer_125,P005,Shoes,Clothing,10,2500,2026-06-20,Chennai
+ORDC0295,CUST7475,Customer_57,P005,Shoes,Clothing,1,2500,2026-06-03,Chennai
+ORDC0296,CUST5938,Customer_53,P001,Laptop,Electronics,1,55000,2026-02-24,Chennai
+ORDC0297,CUST6375,Customer_75,P003,Headphones,Electronics,5,2000,2026-01-31,Chennai
+ORDC0298,CUST3878,Customer_111,P001,Laptop,Electronics,8,55000,2026-02-03,Chennai
+ORDC0299,CUST9196,Customer_59,P007,Microwave,Home Appliances,9,12000,2026-05-24,Chennai
+ORDC0300,CUST1693,Customer_102,P006,Mixer,Home Appliances,2,3500,2026-04-22,Chennai
+ORDC0301,CUST6129,Customer_20,P001,Laptop,Electronics,8,55000,2026-05-28,Chennai
+ORDC0302,CUST7843,Customer_104,P007,Microwave,Home Appliances,10,12000,2026-03-16,Chennai
+ORDC0303,CUST6321,Customer_6,P002,Mobile,Electronics,7,25000,2026-02-13,Chennai
+ORDC0304,CUST6928,Customer_177,P010,Football,Sports,8,900,2026-01-23,Chennai
+ORDC0305,CUST8138,Customer_63,P007,Microwave,Home Appliances,2,12000,2026-05-31,Chennai
+ORDC0306,CUST7484,Customer_21,P007,Microwave,Home Appliances,9,12000,2026-03-21,Chennai
+ORDC0307,CUST3754,Customer_86,P006,Mixer,Home Appliances,4,3500,2026-01-20,Chennai
+ORDC0308,CUST9355,Customer_136,P009,Cricket Bat,Sports,2,1800,2026-02-19,Chennai
+ORDC0309,CUST3419,Customer_166,P006,Mixer,Home Appliances,6,3500,2026-03-02,Chennai
+ORDC0310,CUST4232,Customer_66,P002,Mobile,Electronics,3,25000,2026-02-14,Chennai
+ORDC0311,CUST2234,Customer_168,P010,Football,Sports,3,900,2026-02-15,Chennai
+ORDC0312,CUST8354,Customer_145,P008,Novel,Books,8,500,2026-06-24,Chennai
+ORDC0313,CUST6179,Customer_83,P010,Football,Sports,10,900,2026-02-08,Chennai
+ORDC0314,CUST8245,Customer_121,P008,Novel,Books,2,500,2026-06-11,Chennai
+ORDC0315,CUST1920,Customer_152,P005,Shoes,Clothing,5,2500,2026-04-01,Chennai
+ORDC0316,CUST8565,Customer_80,P009,Cricket Bat,Sports,2,1800,2026-04-26,Chennai
+ORDC0317,CUST5703,Customer_95,P001,Laptop,Electronics,1,55000,2026-01-20,Chennai
+ORDC0318,CUST9307,Customer_153,P002,Mobile,Electronics,10,25000,2026-04-09,Chennai
+ORDC0319,CUST1672,Customer_142,P008,Novel,Books,10,500,2026-04-26,Chennai
+ORDC0320,CUST8792,Customer_83,P010,Football,Sports,4,900,2026-05-09,Chennai
+ORDC0321,CUST2695,Customer_116,P003,Headphones,Electronics,1,2000,2026-03-29,Chennai
+ORDC0322,CUST3827,Customer_166,P002,Mobile,Electronics,9,25000,2026-01-11,Chennai
+ORDC0323,CUST9586,Customer_113,P004,T-Shirt,Clothing,8,800,2026-05-14,Chennai
+ORDC0324,CUST7108,Customer_94,P010,Football,Sports,3,900,2026-03-14,Chennai
+ORDC0325,CUST1857,Customer_87,P007,Microwave,Home Appliances,7,12000,2026-06-11,Chennai
+ORDC0326,CUST2548,Customer_85,P006,Mixer,Home Appliances,2,3500,2026-05-23,Chennai
+ORDC0327,CUST3463,Customer_65,P007,Microwave,Home Appliances,5,12000,2026-03-27,Chennai
+ORDC0328,CUST3317,Customer_170,P002,Mobile,Electronics,10,25000,2026-03-31,Chennai
+ORDC0329,CUST2388,Customer_34,P005,Shoes,Clothing,7,2500,2026-03-21,Chennai
+ORDC0330,CUST6381,Customer_165,P009,Cricket Bat,Sports,7,1800,2026-02-02,Chennai
+ORDC0331,CUST7937,Customer_166,P009,Cricket Bat,Sports,2,1800,2026-05-11,Chennai
+ORDC0332,CUST6060,Customer_93,P006,Mixer,Home Appliances,1,3500,2026-02-16,Chennai
+ORDC0333,CUST4145,Customer_125,P004,T-Shirt,Clothing,6,800,2026-02-27,Chennai
+ORDC0334,CUST5846,Customer_20,P003,Headphones,Electronics,3,2000,2026-01-26,Chennai
+ORDC0335,CUST1618,Customer_135,P009,Cricket Bat,Sports,9,1800,2026-06-19,Chennai
+ORDC0336,CUST7172,Customer_34,P006,Mixer,Home Appliances,10,3500,2026-02-09,Chennai
+ORDC0337,CUST3712,Customer_178,P003,Headphones,Electronics,3,2000,2026-04-23,Chennai
+ORDC0338,CUST4891,Customer_94,P001,Laptop,Electronics,7,55000,2026-04-24,Chennai
+ORDC0339,CUST4833,Customer_115,P010,Football,Sports,5,900,2026-05-17,Chennai
+ORDC0340,CUST4178,Customer_121,P004,T-Shirt,Clothing,5,800,2026-04-05,Chennai
+ORDC0341,CUST5616,Customer_119,P010,Football,Sports,8,900,2026-04-08,Chennai
+ORDC0342,CUST3655,Customer_108,P009,Cricket Bat,Sports,9,1800,2026-02-21,Chennai
+ORDC0343,CUST1854,Customer_65,P010,Football,Sports,3,900,2026-06-14,Chennai
+ORDC0344,CUST2680,Customer_142,P008,Novel,Books,6,500,2026-05-13,Chennai
+ORDC0345,CUST3626,Customer_22,P002,Mobile,Electronics,5,25000,2026-03-11,Chennai
+ORDC0346,CUST8167,Customer_38,P008,Novel,Books,9,500,2026-01-24,Chennai
+ORDC0347,CUST1436,Customer_90,P004,T-Shirt,Clothing,8,800,2026-04-17,Chennai
+ORDC0348,CUST7126,Customer_129,P001,Laptop,Electronics,7,55000,2026-03-02,Chennai
+ORDC0349,CUST4678,Customer_96,P007,Microwave,Home Appliances,2,12000,2026-01-08,Chennai
+ORDC0350,CUST6493,,P006,Mixer,Home Appliances,2,3500,2026-02-07,Chennai
+ORDC0351,CUST8740,Customer_74,P003,Headphones,Electronics,1,2000,2026-06-28,Chennai
+ORDC0352,CUST1086,Customer_115,P003,Headphones,Electronics,8,2000,2026-01-21,Chennai
+ORDC0353,CUST3449,Customer_56,P001,Laptop,Electronics,5,55000,2026-05-21,Chennai
+ORDC0354,CUST2821,Customer_109,P010,Football,Sports,9,900,2026-03-15,Chennai
+ORDC0355,CUST1782,Customer_32,P004,T-Shirt,Clothing,5,800,2026-03-03,Chennai
+ORDC0356,CUST2029,Customer_118,P007,Microwave,Home Appliances,10,12000,2026-01-29,Chennai
+ORDC0357,CUST1269,Customer_138,P008,Novel,Books,10,500,2026-06-11,Chennai
+ORDC0358,CUST3352,Customer_62,P009,Cricket Bat,Sports,10,1800,2026-03-16,Chennai
+ORDC0359,CUST6780,Customer_158,P007,Microwave,Home Appliances,1,12000,2026-03-03,Chennai
+ORDC0360,CUST2402,Customer_48,P010,Football,Sports,7,900,2026-05-15,Chennai
+ORDC0361,CUST9914,Customer_135,P006,Mixer,Home Appliances,2,3500,2026-05-10,Chennai
+ORDC0362,CUST7397,Customer_6,P009,Cricket Bat,Sports,9,1800,2026-05-01,Chennai
+ORDC0363,CUST5155,Customer_96,P001,Laptop,Electronics,7,55000,2026-01-05,Chennai
+ORDC0364,CUST4950,Customer_89,P006,Mixer,Home Appliances,2,3500,2026-06-18,Chennai
+ORDC0365,CUST3185,Customer_86,P002,Mobile,Electronics,10,25000,2026-01-12,Chennai
+ORDC0366,CUST3868,Customer_87,P006,Mixer,Home Appliances,9,3500,2026-06-25,Chennai
+ORDC0367,CUST3986,Customer_162,P008,Novel,Books,8,500,2026-02-04,Chennai
+ORDC0368,CUST5807,Customer_10,P002,Mobile,Electronics,8,25000,2026-02-21,Chennai
+ORDC0369,CUST6170,Customer_11,P001,Laptop,Electronics,4,55000,2026-03-21,Chennai
+ORDC0370,CUST8756,Customer_140,P009,Cricket Bat,Sports,7,1800,2026-03-06,Chennai
+ORDC0371,CUST6848,Customer_74,P001,Laptop,Electronics,4,55000,2026-01-13,Chennai
+ORDC0372,CUST7029,Customer_32,P006,Mixer,Home Appliances,5,3500,2026-04-22,Chennai
+ORDC0373,CUST6554,Customer_99,P007,Microwave,Home Appliances,8,12000,2026-02-17,Chennai
+ORDC0374,CUST9507,Customer_95,P008,Novel,Books,8,500,2026-03-10,Chennai
+ORDC0375,CUST8055,Customer_21,P002,Mobile,Electronics,7,25000,2026-06-04,Chennai
+ORDC0376,CUST6262,Customer_76,P003,Headphones,Electronics,9,2000,2026-01-27,Chennai
+ORDC0377,CUST5843,Customer_170,P002,Mobile,Electronics,6,25000,2026-03-20,Chennai
+ORDC0378,CUST3730,Customer_110,P008,Novel,Books,10,500,2026-06-26,Chennai
+ORDC0379,CUST1693,Customer_115,P008,Novel,Books,6,500,2026-04-01,Chennai
+ORDC0380,CUST1939,Customer_71,P010,Football,Sports,7,900,2026-01-20,Chennai
+ORDC0381,CUST3621,Customer_132,P007,Microwave,Home Appliances,6,12000,2026-01-08,Chennai
+ORDC0382,CUST8179,Customer_174,P003,Headphones,Electronics,10,2000,2026-01-09,Chennai
+ORDC0383,CUST7001,Customer_61,P003,Headphones,Electronics,2,2000,2026-04-03,Chennai
+ORDC0384,CUST3513,Customer_9,P007,Microwave,Home Appliances,10,12000,2026-06-23,Chennai
+ORDC0385,CUST8273,Customer_96,P008,Novel,Books,6,500,2026-01-20,Chennai
+ORDC0386,CUST7012,Customer_136,P010,Football,Sports,3,900,2026-04-12,Chennai
+ORDC0387,CUST2858,Customer_64,P006,Mixer,Home Appliances,5,3500,2026-01-07,Chennai
+ORDC0388,CUST7340,Customer_133,P003,Headphones,Electronics,8,2000,2026-05-24,Chennai
+ORDC0389,CUST8311,Customer_67,P002,Mobile,Electronics,5,25000,2026-02-24,Chennai
+ORDC0390,CUST9047,Customer_178,P010,Football,Sports,5,900,2026-02-21,Chennai
+ORDC0391,CUST8406,Customer_19,P002,Mobile,Electronics,3,25000,2026-02-14,Chennai
+ORDC0392,CUST6236,Customer_175,P008,Novel,Books,2,500,2026-06-20,Chennai
+ORDC0393,CUST9882,Customer_141,P006,Mixer,Home Appliances,2,3500,2026-03-16,Chennai
+ORDC0394,CUST3852,Customer_180,P005,Shoes,Clothing,3,2500,2026-04-03,Chennai
+ORDC0395,CUST4292,Customer_32,P009,Cricket Bat,Sports,4,1800,2026-02-05,Chennai
+ORDC0396,CUST6912,Customer_7,P004,T-Shirt,Clothing,8,800,2026-05-22,Chennai
+ORDC0397,CUST3126,Customer_120,P010,Football,Sports,6,900,2026-06-06,Chennai
+ORDC0398,CUST7523,Customer_80,P002,Mobile,Electronics,2,25000,2026-05-03,Chennai
+ORDC0399,CUST2208,Customer_105,P009,Cricket Bat,Sports,7,1800,2026-02-02,Chennai
+ORDC0400,CUST8632,Customer_116,P006,Mixer,Home Appliances,2,3500,2026-06-24,Chennai
+ORDC0401,CUST3981,Customer_33,P009,Cricket Bat,Sports,6,1800,2026-02-03,Chennai
+ORDC0402,CUST3034,Customer_15,P007,Microwave,Home Appliances,9,12000,2026-05-13,Chennai
+ORDC0403,CUST3653,Customer_43,P003,Headphones,Electronics,5,2000,2026-03-24,Chennai
+ORDC0404,CUST5653,Customer_133,P004,T-Shirt,Clothing,6,800,2026-01-21,Chennai
+ORDC0405,CUST5496,Customer_163,P005,Shoes,Clothing,4,2500,2026-02-02,Chennai
+ORDC0406,CUST2530,Customer_137,P005,Shoes,Clothing,10,2500,2026-05-09,Chennai
+ORDC0407,CUST3526,Customer_149,P003,Headphones,Electronics,10,2000,2026-02-13,Chennai
+ORDC0408,CUST1674,Customer_87,P010,Football,Sports,10,900,2026-01-08,Chennai
+ORDC0409,CUST5336,Customer_165,P002,Mobile,Electronics,1,25000,2026-06-16,Chennai
+ORDC0410,CUST1496,Customer_107,P004,T-Shirt,Clothing,10,800,2026-05-08,Chennai
+ORDC0411,CUST5949,Customer_165,P009,Cricket Bat,Sports,5,1800,2026-05-04,Chennai
+ORDC0412,CUST8430,Customer_77,P004,T-Shirt,Clothing,7,800,2026-01-19,Chennai
+ORDC0413,CUST7809,Customer_113,P001,Laptop,Electronics,3,55000,2026-05-04,Chennai
+ORDC0414,CUST3353,Customer_88,P008,Novel,Books,4,500,2026-03-22,Chennai
+ORDC0415,CUST3142,Customer_103,P006,Mixer,Home Appliances,6,3500,2026-04-05,Chennai
+ORDC0416,CUST6228,Customer_28,P009,Cricket Bat,Sports,9,1800,2026-03-03,Chennai
+ORDC0417,CUST8366,Customer_69,P008,Novel,Books,2,500,2026-03-05,Chennai
+ORDC0418,CUST5754,Customer_13,P003,Headphones,Electronics,2,2000,2026-04-09,Chennai
+ORDC0419,CUST3616,Customer_64,P010,Football,Sports,7,900,2026-03-25,Chennai
+ORDC0420,CUST3610,,P010,Football,Sports,6,900,2026-05-08,Chennai
+ORDC0421,CUST6055,Customer_128,P009,Cricket Bat,Sports,8,1800,2026-05-08,Chennai
+ORDC0422,CUST9281,Customer_101,P001,Laptop,Electronics,2,55000,2026-04-28,Chennai
+ORDC0423,CUST6781,Customer_150,P004,T-Shirt,Clothing,4,800,2026-01-13,Chennai
+ORDC0424,CUST8710,Customer_127,P001,Laptop,Electronics,5,55000,2026-03-15,Chennai
+ORDC0425,CUST8060,Customer_28,P009,Cricket Bat,Sports,1,1800,2026-02-04,Chennai
+ORDC0426,CUST6995,Customer_104,P005,Shoes,Clothing,6,2500,2026-01-12,Chennai
+ORDC0427,CUST4189,Customer_146,P007,Microwave,Home Appliances,1,12000,2026-04-03,Chennai
+ORDC0428,CUST7329,Customer_19,P009,Cricket Bat,Sports,5,1800,2026-05-10,Chennai
+ORDC0429,CUST2946,Customer_72,P008,Novel,Books,9,500,2026-02-02,Chennai
+ORDC0430,CUST6555,Customer_96,P002,Mobile,Electronics,7,25000,2026-05-23,Chennai
+ORDC0431,CUST9341,Customer_51,P006,Mixer,Home Appliances,3,3500,2026-04-13,Chennai
+ORDC0432,CUST1637,Customer_12,P009,Cricket Bat,Sports,1,1800,2026-02-05,Chennai
+ORDC0433,CUST8487,Customer_133,P006,Mixer,Home Appliances,8,3500,2026-02-08,Chennai
+ORDC0434,CUST6373,Customer_36,P010,Football,Sports,9,900,2026-06-06,Chennai
+ORDC0435,CUST5902,Customer_101,P006,Mixer,Home Appliances,3,3500,2026-06-01,Chennai
+ORDC0436,CUST9721,Customer_131,P006,Mixer,Home Appliances,9,3500,2026-05-06,Chennai
+ORDC0437,CUST1272,Customer_122,P010,Football,Sports,5,900,2026-04-05,Chennai
+ORDC0438,CUST6040,Customer_107,P006,Mixer,Home Appliances,2,3500,2026-06-26,Chennai
+ORDC0439,CUST5350,Customer_122,P001,Laptop,Electronics,10,55000,2026-06-17,Chennai
+ORDC0440,CUST1841,Customer_59,P010,Football,Sports,10,900,2026-05-30,Chennai
+ORDC0441,CUST7229,Customer_135,P008,Novel,Books,3,500,2026-02-07,Chennai
+ORDC0442,CUST2800,Customer_147,P004,T-Shirt,Clothing,1,800,2026-02-18,Chennai
+ORDC0443,CUST7861,Customer_81,P001,Laptop,Electronics,8,55000,2026-02-08,Chennai
+ORDC0444,CUST9221,Customer_106,P007,Microwave,Home Appliances,4,12000,2026-06-06,Chennai
+ORDC0445,CUST9498,Customer_36,P008,Novel,Books,1,500,2026-02-23,Chennai
+ORDC0446,CUST8837,Customer_170,P009,Cricket Bat,Sports,6,1800,2026-05-15,Chennai
+ORDC0447,CUST8531,Customer_45,P007,Microwave,Home Appliances,6,12000,2026-05-17,Chennai
+ORDC0448,CUST5331,Customer_91,P006,Mixer,Home Appliances,9,3500,2026-06-06,Chennai
+ORDC0449,CUST5571,Customer_64,P008,Novel,Books,4,500,2026-05-23,Chennai
+ORDC0450,CUST5735,Customer_77,P005,Shoes,Clothing,4,2500,2026-06-30,Chennai
+ORDC0451,CUST8861,Customer_82,P004,T-Shirt,Clothing,8,800,2026-03-31,Chennai
+ORDC0452,CUST2996,Customer_74,P009,Cricket Bat,Sports,5,1800,2026-05-27,Chennai
+ORDC0453,CUST6654,Customer_102,P009,Cricket Bat,Sports,7,1800,2026-02-07,Chennai
+ORDC0454,CUST2294,Customer_74,P005,Shoes,Clothing,1,2500,2026-03-30,Chennai
+ORDC0455,CUST4505,Customer_123,P008,Novel,Books,5,500,2026-02-21,Chennai
+ORDC0456,CUST5450,Customer_144,P009,Cricket Bat,Sports,5,1800,2026-02-05,Chennai
+ORDC0457,CUST4920,Customer_151,P002,Mobile,Electronics,10,25000,2026-03-04,Chennai
+ORDC0458,CUST4814,Customer_58,P001,Laptop,Electronics,9,55000,2026-01-14,Chennai
+ORDC0459,CUST8739,Customer_85,P002,Mobile,Electronics,7,25000,2026-01-26,Chennai
+ORDC0460,CUST3587,Customer_141,P003,Headphones,Electronics,1,2000,2026-04-15,Chennai
+ORDC0461,CUST4267,Customer_167,P008,Novel,Books,8,500,2026-03-15,Chennai
+ORDC0462,CUST1969,Customer_166,P006,Mixer,Home Appliances,5,3500,2026-01-23,Chennai
+ORDC0463,CUST1611,Customer_137,P010,Football,Sports,4,900,2026-02-14,Chennai
+ORDC0464,CUST7504,Customer_10,P007,Microwave,Home Appliances,3,12000,2026-05-07,Chennai
+ORDC0465,CUST1151,Customer_10,P003,Headphones,Electronics,5,2000,2026-03-18,Chennai
+ORDC0466,CUST6489,Customer_28,P010,Football,Sports,10,900,2026-03-14,Chennai
+ORDC0467,CUST9092,Customer_135,P008,Novel,Books,9,500,2026-02-04,Chennai
+ORDC0468,CUST4159,Customer_70,P009,Cricket Bat,Sports,8,1800,2026-01-29,Chennai
+ORDC0469,CUST5215,Customer_118,P006,Mixer,Home Appliances,3,3500,2026-02-17,Chennai
+ORDC0470,CUST4164,Customer_76,P001,Laptop,Electronics,6,55000,2026-02-14,Chennai
+ORDC0471,CUST9442,Customer_110,P010,Football,Sports,7,900,2026-03-25,Chennai
+ORDC0472,CUST2562,Customer_172,P002,Mobile,Electronics,7,25000,2026-02-17,Chennai
+ORDC0473,CUST5064,Customer_83,P003,Headphones,Electronics,8,2000,2026-01-02,Chennai
+ORDC0474,CUST8319,Customer_61,P005,Shoes,Clothing,7,2500,2026-03-10,Chennai
+ORDC0475,CUST1187,Customer_150,P006,Mixer,Home Appliances,5,3500,2026-03-08,Chennai
+ORDC0476,CUST2936,Customer_16,P006,Mixer,Home Appliances,4,3500,2026-04-30,Chennai
+ORDC0477,CUST9233,Customer_104,P005,Shoes,Clothing,3,2500,2026-06-30,Chennai
+ORDC0478,CUST5833,Customer_164,P005,Shoes,Clothing,2,2500,2026-04-05,Chennai
+ORDC0479,CUST3188,Customer_57,P010,Football,Sports,4,900,2026-05-03,Chennai
+ORDC0480,CUST7121,Customer_156,P003,Headphones,Electronics,8,2000,2026-04-17,Chennai
+ORDC0481,CUST4578,Customer_138,P009,Cricket Bat,Sports,8,1800,2026-03-05,Chennai
+ORDC0482,CUST8319,Customer_135,P010,Football,Sports,2,900,2026-05-16,Chennai
+ORDC0483,CUST2838,Customer_145,P006,Mixer,Home Appliances,2,3500,2026-01-16,Chennai
+ORDC0484,CUST9792,Customer_52,P009,Cricket Bat,Sports,9,1800,2026-02-08,Chennai
+ORDC0485,CUST8239,Customer_134,P003,Headphones,Electronics,6,2000,2026-01-30,Chennai
+ORDC0486,CUST2489,Customer_126,P004,T-Shirt,Clothing,10,800,2026-05-11,Chennai
+ORDC0487,CUST3161,Customer_117,P008,Novel,Books,1,500,2026-05-12,Chennai
+ORDC0488,CUST1945,Customer_145,P007,Microwave,Home Appliances,8,12000,2026-05-24,Chennai
+ORDC0489,CUST7487,Customer_6,P008,Novel,Books,5,500,2026-03-07,Chennai
+ORDC0490,CUST2196,,P001,Laptop,Electronics,4,55000,2026-01-12,Chennai
+ORDC0491,CUST2044,Customer_180,P007,Microwave,Home Appliances,6,12000,2026-05-19,Chennai
+ORDC0492,CUST1519,Customer_121,P001,Laptop,Electronics,2,55000,2026-03-15,Chennai
+ORDC0493,CUST7887,Customer_35,P007,Microwave,Home Appliances,3,12000,2026-04-06,Chennai
+ORDC0494,CUST7154,Customer_97,P007,Microwave,Home Appliances,8,12000,2026-01-21,Chennai
+ORDC0495,CUST6697,Customer_168,P009,Cricket Bat,Sports,3,1800,2026-01-31,Chennai
+ORDC0496,CUST9664,Customer_101,P003,Headphones,Electronics,9,2000,2026-02-02,Chennai
+ORDC0497,CUST5888,Customer_6,P004,T-Shirt,Clothing,1,800,2026-04-29,Chennai
+ORDC0498,CUST7214,Customer_137,P009,Cricket Bat,Sports,7,1800,2026-02-28,Chennai
+ORDC0499,CUST3541,Customer_89,P004,T-Shirt,Clothing,8,800,2026-03-12,Chennai
+ORDC0500,CUST7868,Customer_9,P004,T-Shirt,Clothing,2,800,2026-06-07,Chennai
+ORDC0011,CUST6925,Customer_161,P009,Cricket Bat,Sports,5,1800,2026-05-28,Chennai
+ORDC0051,CUST2604,Customer_114,P004,T-Shirt,Clothing,2,800,2026-01-13,Chennai
+ORDC0101,CUST6279,Customer_156,P007,Microwave,Home Appliances,10,12000,2026-04-30,Chennai
+ORDC0151,CUST7658,Customer_62,P004,T-Shirt,Clothing,2,800,2026-05-06,Chennai
+ORDC0201,CUST7807,Customer_70,P005,Shoes,Clothing,9,2500,2026-05-04,Chennai
